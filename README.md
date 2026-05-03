@@ -1,6 +1,7 @@
 <p align="center">
 <img width="320" height="280" alt="Image" src="https://github.com/user-attachments/assets/24911319-2e24-4cd2-a8ca-d6b905e770f7" />
 </p>
+
 # 📞 An Open CDR Standard
 
 **An open, vendor-neutral schema for Call Detail Records — built by the industry, for the industry.**
