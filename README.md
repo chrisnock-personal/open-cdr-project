@@ -24,7 +24,7 @@ A common, open schema changes all of this. With a shared standard, any developer
 This project aims to establish a **prototype open standard** for CDR data, and to grow it into a fully realised, industry-backed specification.
 
 ### Phase 1 — Prototype *(current)*
-- Define a comprehensive, vendor-neutral CDR field schema covering voice, video, chat, and multi-party interaction scenarios
+- Define a comprehensive, vendor-neutral CDR field schema covering voice, video, chat, Meeitng, and multi-party interaction scenarios
 - Publish a machine-readable OpenAPI 3.1 schema (`cdr-schema.yaml`)
 - Publish human-readable field definitions and API guidelines
 - Provide real-world example CDR responses covering common call scenarios
