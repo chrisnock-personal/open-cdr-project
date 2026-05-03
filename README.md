@@ -1,6 +1,4 @@
 <img width="320" height="280" alt="Image" src="https://github.com/user-attachments/assets/24911319-2e24-4cd2-a8ca-d6b905e770f7" />
-<br>
-<br>
 
 # 📞 Open CDR Standard
 
