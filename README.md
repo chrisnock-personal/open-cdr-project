@@ -95,6 +95,13 @@ Ways to contribute:
 
 ---
 
+## Possible Future Areas of Expansion 
+
+- A sister project for an Open CTI messaging standard 
+- A Open call logging platform for ingesting CDR data written to the specification defined in this project.
+
+---
+
 ## Licence
 
 All artefacts in this repository are published under the **Apache 2.0 Licence** — free to use, free to build on, with no strings attached.
@@ -107,4 +114,4 @@ All artefacts in this repository are published under the **Apache 2.0 Licence** 
 
 ---
 
-*Built by someone who got tired of writing the same integration for the tenth time.*
+*Built by someone who got tired of writing the same integration time and time again.*
