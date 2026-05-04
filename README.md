@@ -101,6 +101,7 @@ Ways to contribute:
 
 ## Possible Future Areas of Expansion 
 
+- A proper website/domain registration for the project
 - A sister project for an Open CTI messaging standard 
 - A Open call logging platform for ingesting CDR data written to the specification defined in this project.
 
