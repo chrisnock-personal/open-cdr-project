@@ -119,4 +119,4 @@ All artefacts in this repository are published under the **Apache 2.0 Licence** 
 
 ---
 
-*Built by someone who got tired of writing the same integration time and time again.*
+*Built by someone who got tired of re-working the same integration time and time again to accomodate vendor specific output.*
