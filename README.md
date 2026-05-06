@@ -62,7 +62,7 @@ This is not a commercial project. There is no product to sell. The goal is simpl
 | File | Description |
 |------|-------------|
 | `cdr-schema.yaml` | OpenAPI 3.1 machine-readable CDR schema |
-| `CDR_Field_Definitions_v1.0.0.docx` | Human-readable field definitions and API guidelines |
+| `CDR_Field_Definitions_v1.0.0.pdf` | Human-readable field definitions and API guidelines |
 | `cdr-examples.json` | Example CDR API responses for five common call scenarios |
 
 ### Example Scenarios Covered
