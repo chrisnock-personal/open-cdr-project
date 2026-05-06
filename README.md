@@ -51,7 +51,7 @@ This project aims to establish a **prototype open standard** for CDR data, and t
 
 This project was started by an industry professional with hands-on experience across **telephony, call recording, and call recording compliance** — someone who has seen first-hand the friction caused by the absence of a shared CDR standard.
 
-Having worked across platforms, vendors, and compliance frameworks, the motivation here is straightforward: the industry deserves better interoperability, and the tooling gap — particularly for smaller organisations — is solvable with an open, collaborative approach.
+Having worked across platforms, vendors, and compliance frameworks, the motivation here is straightforward: the industry deserves better interoperability, and the tooling gap particularly for smaller organisations is solvable with an open, collaborative approach.
 
 This is not a commercial project. There is no product to sell. The goal is simply to put something useful into the world and invite others who care about the problem to help shape it.
 
