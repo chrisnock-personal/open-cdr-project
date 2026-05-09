@@ -14,10 +14,10 @@ Call Detail Records (CDRs) are fundamental to how telephony systems log, audit, 
 
 This creates real, tangible problems:
 
-- **Vendor lock-in** — CDR formats are proprietary. Switching platforms or integrating across systems requires bespoke development work every time.
-- **Specialist tooling required** — Accessing and making use of CDR data typically means purchasing expensive vendor-specific software or engaging specialist developers. Neither is accessible to smaller businesses.
-- **Limited observability at scale** — Organisations running multi-vendor environments have no consistent way to correlate, audit, or analyse CDR data across their estate without significant investment.
-- **Small businesses left behind** — The cost and complexity of CDR tooling means meaningful call observability is largely out of reach for small and medium-sized businesses, despite them having the same compliance, audit, and operational needs.
+- **Vendor lock-in** - CDR formats are proprietary. Switching platforms or integrating across systems requires bespoke development work every time.
+- **Specialist tooling required** - Accessing and making use of CDR data typically means purchasing expensive vendor-specific software or engaging specialist developers. Neither is accessible to smaller businesses.
+- **Limited observability at scale** - Organisations running multi-vendor environments have no consistent way to correlate, audit, or analyse CDR data across their estate without significant investment.
+- **Small businesses left behind** - The cost and complexity of CDR tooling means meaningful call observability is largely out of reach for small and medium-sized businesses, despite them having the same compliance, audit, and operational needs.
 
 A common, open schema changes all of this. With a shared standard, any developer can build tooling, any business can consume CDR data without vendor dependency, and the entire industry benefits from a richer, more interoperable ecosystem.
 
