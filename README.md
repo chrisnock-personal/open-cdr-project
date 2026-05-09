@@ -4,7 +4,7 @@
 
 # 📞 An Open CDR Standard
 
-**An open, vendor-neutral schema for Call Detail Records — built by the industry, for the industry.**
+**An open, vendor-neutral schema for Call Detail Records - built by the industry, for the industry.**
 
 ---
 
@@ -49,7 +49,7 @@ This project aims to establish a **prototype open standard** for CDR data, and t
 
 ## Who We Are
 
-This project was started by an industry professional with hands-on experience across **telephony, call recording, and call recording compliance** — someone who has seen first-hand the friction caused by the absence of a shared CDR standard.
+This project was started by an industry professional with hands-on experience across **telephony, call recording, and call recording compliance** - someone who has seen first-hand the friction caused by the absence of a shared CDR standard.
 
 Having worked across platforms, vendors, and compliance frameworks, the motivation here is straightforward: the industry deserves better interoperability, and the tooling gap particularly for smaller organisations is solvable with an open, collaborative approach.
 
@@ -67,35 +67,35 @@ This is not a commercial project. There is no product to sell. The goal is simpl
 
 ### Example Scenarios Covered
 
-- **Inbound Call** — Simple two-party direct inbound voice call
-- **Inbound Queue Call (IVR/ACD)** — Caller routed through IVR and ACD queue to agent
-- **Outbound Call** — Agent-initiated outbound call
-- **Inbound Call with Conference** — Agent adds a third-party specialist mid-call
-- **Inbound Call with Transfer** — Warm transfer between agents, with both legs documented
+- **Inbound Call** - Simple two-party direct inbound voice call
+- **Inbound Queue Call (IVR/ACD)** - Caller routed through IVR and ACD queue to agent
+- **Outbound Call** - Agent-initiated outbound call
+- **Inbound Call with Conference** - Agent adds a third-party specialist mid-call
+- **Inbound Call with Transfer** - Warm transfer between agents, with both legs documented
 
 ---
 
 ## Schema Highlights
 
-- **Vendor-neutral** — No proprietary fields, no platform-specific assumptions
-- **Multi-party native** — Conferences, transfers, barge-in, and silent monitoring are first-class concepts
-- **Full event timeline** — Every call carries an ordered `events` array capturing ringing, hold, transfer, IVR, queue, recording actions, and more
-- **Modality-aware** — Voice, video, chat, instant message, and email interactions are all in scope
-- **Extensible** — A `vendorSpecificFields` object allows platforms to include proprietary metadata without polluting the core schema
+- **Vendor-neutral** - No proprietary fields, no platform-specific assumptions
+- **Multi-party native** - Conferences, transfers, barge-in, and silent monitoring are first-class concepts
+- **Full event timeline** - Every call carries an ordered `events` array capturing ringing, hold, transfer, IVR, queue, recording actions, and more
+- **Modality-aware** - Voice, video, chat, instant message, and email interactions are all in scope
+- **Extensible** - A `vendorSpecificFields` object allows platforms to include proprietary metadata without polluting the core schema
 - **Pagination & filtering built in** — Time range, media type, group filtering, and consistent ordering are part of the API design from the start
 
 ---
 
 ## Get Involved
 
-This standard only becomes meaningful with industry participation. Whether you are a switch vendor, a UC platform developer, a compliance specialist, a call recording integrator, or simply someone who has felt the pain of proprietary CDR formats — your input is welcome.
+This standard only becomes meaningful with industry participation. Whether you are a switch vendor, a UC platform developer, a compliance specialist, a call recording integrator, or simply someone who has felt the pain of proprietary CDR formats - your input is welcome.
 
 Ways to contribute:
 
-- **Review the schema** — Does it cover your platform's data? What is missing? What should be different?
-- **Raise issues** — Open an issue to flag gaps, ambiguities, or proposed additions
-- **Submit a pull request** — Propose changes to the schema, field definitions, or examples
-- **Spread the word** — Share this project with colleagues and organisations who would benefit from a common CDR standard
+- **Review the schema** - Does it cover your platform's data? What is missing? What should be different?
+- **Raise issues** - Open an issue to flag gaps, ambiguities, or proposed additions
+- **Submit a pull request** - Propose changes to the schema, field definitions, or examples
+- **Spread the word** - Share this project with colleagues and organisations who would benefit from a common CDR standard
 
 ---
 
@@ -109,14 +109,12 @@ Ways to contribute:
 
 ## Licence
 
-All artefacts in this repository are published under the **Apache 2.0 Licence** — free to use, free to build on, with no strings attached.
+All artefacts in this repository are published under the **Apache 2.0 Licence** - free to use, free to build on, with no strings attached.
 
 ---
 
 ## Status
 
-> 🟡 **Prototype** — The schema is complete and internally consistent. It is not yet formally endorsed by any industry body. Feedback, review, and contribution from industry professionals is actively sought.
+> 🟡 **Prototype** - The schema is complete and internally consistent. It is not yet formally endorsed by any industry body. Feedback, review, and contribution from industry professionals is actively sought.
 
----
 
-*Built by someone who got tired of re-working the same integration time and time again to accomodate vendor specific output.*
