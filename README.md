@@ -81,6 +81,7 @@ This is not a commercial project. There is no product to sell. The goal is simpl
 - **Multi-party native** - Conferences, transfers, barge-in, and silent monitoring are first-class concepts
 - **Full event timeline** - Every call carries an ordered `events` array capturing ringing, hold, transfer, IVR, queue, recording actions, and more
 - **Modality-aware** - Voice, video, chat, instant message, and email interactions are all in scope
+- **Transcription references** - Optional `transcription` block links a call to its transcript, including provider, language, confidence, and redaction status
 - **Extensible** - A `vendorSpecificFields` object allows platforms to include proprietary metadata without polluting the core schema
 - **Pagination & filtering built in** — Time range, media type, group filtering, and consistent ordering are part of the API design from the start
 

@@ -19,6 +19,8 @@
       "parentCallId": null,
       "relatedCallIds": [],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T08:59:50.000Z",
       "callStartTime": "2024-06-01T09:00:05.000Z",
       "callEndTime": "2024-06-01T09:12:47.000Z",
@@ -107,6 +109,19 @@
         "mediaName": "call_20240601_090005_jsmith.mp4",
         "downloadPath": "https://recordings.example.com/rec-a1f3c2e0-0001"
       },
+      "transcription": {
+        "transcriptionStatus": "transcribed",
+        "transcriptionMethod": "automatic",
+        "transcriptId": "txn-a1f3c2e0-0001",
+        "recordingId": "rec-a1f3c2e0-0001",
+        "provider": "AWS Transcribe",
+        "language": "en-GB",
+        "confidenceScore": 0.94,
+        "wordCount": 342,
+        "redacted": true,
+        "mediaName": "call_20240601_090005_jsmith.json",
+        "downloadPath": "https://transcripts.example.com/txn-a1f3c2e0-0001"
+      },
       "qos": {
         "mosScore": 4.3,
         "latencyMs": 14.2,
@@ -123,6 +138,8 @@
       "parentCallId": null,
       "relatedCallIds": [],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T10:00:00.000Z",
       "callStartTime": "2024-06-01T10:03:45.000Z",
       "callEndTime": "2024-06-01T10:19:22.000Z",
@@ -311,6 +328,8 @@
       "parentCallId": null,
       "relatedCallIds": [],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T11:15:00.000Z",
       "callStartTime": "2024-06-01T11:15:22.000Z",
       "callEndTime": "2024-06-01T11:28:05.000Z",
@@ -433,6 +452,8 @@
         "d4a6b5c3-0004-4e5d-c143-000000000004-leg2"
       ],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T13:30:00.000Z",
       "callStartTime": "2024-06-01T13:30:12.000Z",
       "callEndTime": "2024-06-01T13:52:44.000Z",
@@ -610,6 +631,8 @@
         "e5b7c6d4-0005-4f6e-d254-000000000006"
       ],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T14:05:00.000Z",
       "callStartTime": "2024-06-01T14:05:18.000Z",
       "callEndTime": "2024-06-01T14:09:55.000Z",
@@ -743,6 +766,8 @@
         "e5b7c6d4-0005-4f6e-d254-000000000005-consult"
       ],
       "tenantId": "tenant-london",
+      "sourcePlatformId": "switch-lon-01",
+      "sourcePlatformType": "Cisco UCM",
       "interactionStartTime": "2024-06-01T14:09:55.000Z",
       "callStartTime": "2024-06-01T14:09:55.000Z",
       "callEndTime": "2024-06-01T14:27:33.000Z",
