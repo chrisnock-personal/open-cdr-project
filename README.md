@@ -4,7 +4,7 @@
 
 # 📞 An Open CDR Standard
 
-**An open, vendor-neutral schema for Call Detail Records - built by the industry, for the industry.**
+**An open, vendor-neutral schema for Call Detail Records - built by the industry.**
 
 ---
 
@@ -53,7 +53,7 @@ This project was started by an industry professional with hands-on experience ac
 
 Having worked across platforms, vendors, and compliance frameworks, the motivation here is straightforward: the industry deserves better interoperability, and the tooling gap particularly for smaller organisations is solvable with an open, collaborative approach.
 
-This is not a commercial project. There is no product to sell. The goal is simply to put something useful into the world and invite others who care about the problem to help shape it.
+This is not a commercial project. There is no product to sell. The goal is simply to put something useful out there and invite others who care about the problem to help shape it.
 
 ---
 
@@ -97,14 +97,6 @@ Ways to contribute:
 - **Raise issues** - Open an issue to flag gaps, ambiguities, or proposed additions
 - **Submit a pull request** - Propose changes to the schema, field definitions, or examples
 - **Spread the word** - Share this project with colleagues and organisations who would benefit from a common CDR standard
-
----
-
-## Possible Future Areas of Expansion 
-
-- A proper website/domain registration for the project
-- A sister project for an Open CTI messaging standard 
-- A Open call logging platform for ingesting CDR data written to the specification defined in this project.
 
 ---
 
