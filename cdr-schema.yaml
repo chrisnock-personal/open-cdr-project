@@ -565,10 +565,18 @@ components:
       type: object
       description: Client device metadata for a participant.
       properties:
+        vendor:
+          type: string
+          description: "**[Optional]** Device vendor/manufacturer name (e.g. 'Cisco', 'Poly', 'IPC')."
+          example: "IPC Systems"
         model:
           type: string
           description: "**[Optional]** Device model name (e.g. 'XX SoftPhone v4', 'ABC Turret')."
           example: "XYZ UC Client"
+        serialNumber:
+          type: string
+          description: "**[Optional]** Manufacturer serial number of the device, if available."
+          example: "SN-2024-88213"
         softwareVersion:
           type: string
           description: "**[Optional]** Software or firmware version."
